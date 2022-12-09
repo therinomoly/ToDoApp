@@ -1,0 +1,11 @@
+
+body{
+    background-color: #fafafa;
+}
+
+
+.header{
+    /*Removes the underline from the Header*/
+    text-decoration: none !important;
+}
+
